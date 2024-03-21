@@ -42,3 +42,15 @@
     background: white url(../images/main-banner.jpg) no-repeat center center;
     background-size: cover;
   }
+
+
+/* -----------------------------------------------------
+Vision section
+----------------------------------------------------- */
+  .vision {
+    background: black url(../images/vision.jpg) no-repeat center center;
+    background-size: cover;
+  }
+  
+  
+  
